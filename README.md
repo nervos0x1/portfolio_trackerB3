@@ -56,7 +56,7 @@ pip install pandas openpyxl requests fpdf2 feedparser python-dotenv
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/portfolio-tracker.git
+git clone https://github.com/nervos0x1/portfolio_trackerB3.git
 cd portfolio-tracker
 ```
 
